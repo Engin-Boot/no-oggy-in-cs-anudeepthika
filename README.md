@@ -1,2 +1,4 @@
+
 # Collections Exercise
-I want to remove the names starting with "oggy" from the given list.
+
+I removed the names starting with "oggy" from the given list without any reason!!
